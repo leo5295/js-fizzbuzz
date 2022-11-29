@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.square{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+}
+
+.square_fizz{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+
+}
+
+.square_buzz{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+
+}
+
+.square_fizzbuzz{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+}
